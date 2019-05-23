@@ -1,23 +1,16 @@
-<span id="a">Imbecile@server</span>:
-<span id="b">~</span>
-<span id="c">$</span> cat tampolonline.txt~
+<span id="a">Imbecile@server</span>: <span id="b">~</span> <span id="c">$</span> cat tampolonline.txt~
 <br/>
 <br/>
 Hi, Selamat Datang di TampolOnline.co .
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>Tampol Online™ adalah situs penyedia jasa dalam bidang baku hantam online. </p>
 <!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
-<p>Kami baru saja hadir di Internet dan akan berkembang, sampai saat ini, kami baru mempunyai dua layanan Tampol Online™ yaitu
-	<a href="http://www.ferdiansh.github.io">Tampol dan Sleding</a> dan 
-	<a href="https://www.ferdiansh.github.io">Sentil Jakun</a>.
+<p>Kami baru saja hadir di Internet dan akan berkembang, sampai saat ini, kami baru mempunyai dua layanan Tampol Online™ yaitu <a href="http://www.ferdiansh.github.io">Tampol dan Sleding</a> dan <a href="https://www.ferdiansh.github.io">Sentil Jakun</a>.
 </p>
 <!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p>Kami hadir untuk mengayomi keresahan masyarakat dalam memerangi pengguna internet yang kurang bijak.</p>
 <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
-Jika kalian berminat untuk menggunakan jasa Tampol Online™
-<!-- slightdelayhere-->, hubungi kami di.
-<!-- longlongcomment --> Email: 
-<a href="mailto:jeff@besttechie.com">jeff@besttechie.com</a> 
+Jika kalian berminat untuk menggunakan jasa Tampol Online™ <!-- slightdelayhere-->, hubungi kami di. <!-- longlongcomment --> Email: <a href="mailto:f3rdi@protonmail.com">tampolonline@protonmail.com</a> 
 
 <!-- <p>And if you haven't already, be sure to check out my tech publication 
 	<a href="http://www.besttechie.com">http://www.besttechie.com</a> and analytics startup 
